@@ -1,0 +1,6 @@
+numpy
+pytesseract
+opencv-python
+requests
+pyperclip
+rumps
